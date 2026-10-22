@@ -22,16 +22,18 @@ https://github.com/organizations/aumlayer/settings/profile
 | **Billing email (private)** | `info@aumlayer.com` |
 | **Profile picture** | Transparent `assets/aumlayer-logo.png` (upload in UI) |
 
-## Optional — set manually in UI
+## Set manually in UI (from [aumlayer.com](https://aumlayer.com))
 
-GitHub’s four **Social account** slots are UI-only (no stable public API). Suggested order:
+Copy from [ORG-PROFILE-PASTE.md](ORG-PROFILE-PASTE.md):
 
-| Slot | Suggestion |
-|------|------------|
-| 1 | https://github.com/aumlayer/security-labs |
-| 2 | https://www.youtube.com/@… *(your channel)* |
-| 3 | https://www.linkedin.com/company/… *(if applicable)* |
-| 4 | https://aumlayer.com |
+| Slot | URL |
+|------|-----|
+| 1 | https://www.youtube.com/@aumlayer |
+| 2 | https://www.linkedin.com/company/aumlayer/ |
+| 3 | https://x.com/aumLayer |
+| 4 | https://www.instagram.com/aumlayer |
+
+**X handle (API):** `aumLayer` — already PATCHed on the org.
 
 **Gravatar email:** leave empty if you use uploaded picture (not Gravatar).
 

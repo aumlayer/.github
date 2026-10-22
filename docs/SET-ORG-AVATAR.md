@@ -20,9 +20,13 @@ The README logo is already a **transparent PNG**. The header identicon only chan
 
 3. Under **Profile picture**, click **Upload new picture**.
 
-4. Select `aumlayer-logo.png` → adjust crop → **Set new organization picture**.
+4. Select `aumlayer-logo.png` → adjust crop → confirm upload in the preview box.
 
-5. Hard-refresh https://github.com/aumlayer (Ctrl+Shift+R). CDN cache can take 1–2 minutes.
+5. **Scroll down and click `Update profile`.** Upload alone does not save; the API avatar stays the identicon until this step.
+
+6. Confirm: `gh api orgs/aumlayer -q .avatar_url` — open the URL; you should see the red **A**, not pink squares.
+
+7. Hard-refresh https://github.com/aumlayer (Ctrl+Shift+R). Top nav can lag 1–2 minutes behind the preview.
 
 ## Local file (if you cloned this repo)
 
