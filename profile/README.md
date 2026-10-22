@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Header identicon: org owner must upload assets/aumlayer-logo.png in Settings → Profile (see docs/SET-ORG-AVATAR.md) -->
 <img src="https://raw.githubusercontent.com/aumlayer/.github/main/assets/aumlayer-logo.png" width="140" alt="AUMLayer logo" />
 
 # AUMLayer
