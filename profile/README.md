@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aumlayer/.github/main/assets/aumlayer-logo.jpg" width="140" alt="AUMLayer logo" />
+<img src="https://raw.githubusercontent.com/aumlayer/.github/main/assets/aumlayer-logo.png" width="140" alt="AUMLayer logo" />
 
 # AUMLayer
 

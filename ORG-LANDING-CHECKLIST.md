@@ -11,7 +11,7 @@ Complete these in the GitHub UI (org **Owners**) for a polished public profile.
 ## Recommended in GitHub UI
 
 1. **Profile picture** — [Organization settings → Profile](https://github.com/organizations/aumlayer/settings/profile)  
-   Upload [`assets/aumlayer-logo.jpg`](assets/aumlayer-logo.jpg) from this repo (1024×1024). Replaces the default identicon in link previews and the org header.
+   Upload [`assets/aumlayer-logo.png`](assets/aumlayer-logo.png) (RGBA, transparent background). Replaces the default identicon in link previews and the org header.
 
 2. **Social / contact** — same Profile page  
    - **Website** (e.g. marketing site or `https://github.com/aumlayer/security-labs`)  
