@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/aumlayer/.github/main/assets/aumlayer-logo.jpg" width="140" alt="AUMLayer logo" />
+
 # AUMLayer
 
 **Engineering · Security research · Operator education**
